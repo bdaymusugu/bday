@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Here's The Code I wrote. Adding music in the background was quite a task which I initially thought was easy. But it kinda showed me chukkalu coz it was working on the PC locally but when I was hosting it online it didn't work out :P. Found out a way in the end after a lot of research :P. I started doing this at 3 pm . Completed some parts till 6. Slept after that . Woke up after an hour tried fixing the music part :P didn't work out. Had dinner. Again Sat :P. This time it worked and then I texted you. 
 
 <!--
 **bdaymusugu/bdaymusugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
